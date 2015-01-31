@@ -6,7 +6,6 @@
  * @license www.foxxtec.com.br 
  * @date    17/01/2015
  * @vesion  0.0.0
- * 
  */
 
 class UploadComponent extends Component{
